@@ -1,4 +1,4 @@
-# ToDo-API-Final-Project
+# ToDo-API
 This project is about the idea of To-Do tasks, you can add your tasks with the ability of editing and deleting them, you can check what you'v done of them, you can uncheck them back.
 
 The andoid application is as the following video:
